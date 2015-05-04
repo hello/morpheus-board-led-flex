@@ -1,0 +1,14 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"DNP","Dual inverter The 74HC2G04; 74HCT2G04 is a high-speed Si-gate CMOS device.","U101","SOT65P210X110-6N","74HCT2G04","1"
+"0","Chip Resistor","R106, R108","RES0402_SENSE_DVT","R_0_jumper_0.1_0402","2"
+"1.5k","Chip Resistor","R101","RES0402_SENSE_DVT","R_1.5k_5_0.1_0402","1"
+"150","Chip Resistor","R201, R202, R203, R204, R205, R206, R207, R208, R209, R210, R211, R212","RES0402_SENSE_DVT","R_150_1_0.1_0402","12"
+"475","Chip Resistor","R102","RES0402_SENSE_DVT","R_475_1_0.1_0402","1"
+"DNP","Chip Resistor","R103, R104, R105, R107","RES0402_SENSE_DVT","R_0_jumper_0.1_0402, R_100_1_0.1_0402, R_1.5k_5_0.1_0402, R_100_1_0.1_0402","4"
+"DNP","Molex 5-pin flex connector 0.3mm working height","P101","mate_for_molex_51281-0594","mate_for_molex_51281-0594","1"
+"DNP","general purpose hole","H101, H102, H103, H104","HOLE_ROUND_1.4mm","Hole","4"
+"0.1u","Chip capacitor","C203, C204, C205, C206, C209, C210, C211, C212, C215, C216, C217, C218","CAP0402_SENSE_DVT","C_0.1u_10_50_X7R_0402","12"
+"4.7u","Chip capacitor","C201, C202, C207, C208, C213, C214","CAP0402_SENSE_DVT","C_4.7u_10_10_JB_0402","6"
+"DNP","Chip capacitor","C101","CAP0402_SENSE_DVT","C_0.1u_10_50_X7R_0402","1"
+"WS2812S","WS2812S Intelligent control LED integrated light source","U201, U202, U203, U204, U205, U206, U207, U208, U209, U210, U211, U212","6PIN_WS2812","WS2812S","12"

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=P101-2
+Removed Pin From Net: NetName=LED_RING_DI Pin=P101-3
+Change Component DesignItemId : Designator=P101 Old DesignItemId=mate_for_molex_47420-0001 New DesignItemId=mate_for_molex_51281-0594
+Change Component Footprint: Designator=P101 Old Footprint=mate_for_molex_47420-0001 New Footprint=mate_for_molex_51281-0594
+Added Pin To Net: NetName=GND Pin=P101-1_t
+Added Pin To Net: NetName=LED_RING_DI Pin=P101-2_t
+Added Pin To Net: NetName=LED_RING_DI Pin=P101-2
+Added Pin To Net: NetName=5V Pin=P101-3_t
+Added Pin To Net: NetName=5V Pin=P101-3
+Added Pin To Net: NetName=LED_RING_DO Pin=P101-4_t
+Added Pin To Net: NetName=GND Pin=P101-5_t
+Added Pin To Net: NetName=GND Pin=P101-5
+Added Room: Name=Morpheus_LED1
+Added Room: Name=Morpheus_LED2

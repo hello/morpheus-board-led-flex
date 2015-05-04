@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LED_RING_DI Pin=P101-2_t
+Removed Pin From Net: NetName=LED_RING_DI Pin=P101-2
+Removed Pin From Net: NetName=LED_RING_DO Pin=P101-4_t
+Removed Pin From Net: NetName=LED_RING_DO Pin=P101-4
+Added Pin To Net: NetName=LED_RING_DO Pin=P101-2_t
+Added Pin To Net: NetName=LED_RING_DO Pin=P101-2
+Added Pin To Net: NetName=LED_RING_DI Pin=P101-4_t
+Added Pin To Net: NetName=LED_RING_DI Pin=P101-4

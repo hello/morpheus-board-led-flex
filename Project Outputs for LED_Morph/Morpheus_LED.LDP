@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Y:\Dropbox (Hello)\Product\Morpheus\Ben_cache\morpheus-board-led\Morpheus_LED\Morpheus_LED.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=morpheus_led-plated.txt|DrillLayers=gtl,g2,g3,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=morpheus_led-nonplated.txt|DrillLayers=gtl,g2,g3,gbl
